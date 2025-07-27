@@ -2,27 +2,13 @@
 
 <h1 align="center">👋 Hi there, I'm Ahmed Hasan</h1>
 
-Welcome to my profile! 🚀
-
 <p align="center">
-  Passionate about building reliable, scalable, and maintainable test automation frameworks.
+  Welcome to my profile! 🚀<br>
+  I'm passionate about building reliable, scalable, and maintainable test automation frameworks.
 </p>
 
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-ahmed-hasan).
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-ahmed-hasan).
 
 ---
-<!--
-**ahmed-hasan-kr/ahmed-hasan-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
