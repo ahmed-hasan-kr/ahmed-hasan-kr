@@ -1,10 +1,9 @@
 <!-- GitHub Profile README -->
+## 👋 Hi there, my name is Ahmed Hasan
 
-<h1 align="center">Hi there 👋, I'm a QA Automation Engineer (SDET)</h1>
+Welcome to my profile.
 
-<p align="center">
-  Passionate about building reliable, scalable, and maintainable test automation frameworks.
-</p>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-ahmed-hasan).
 
 ---
 <!--
