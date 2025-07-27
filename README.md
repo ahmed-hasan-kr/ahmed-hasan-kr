@@ -1,7 +1,13 @@
-<!-- GitHub Profile README -->
-## 👋 Hi there, my name is Ahmed Hasan
+<!-- My Profile README -->
 
-Welcome to my profile.
+<h1 align="center">Hi there 👋, I'm Ahmed Hasan</h1>
+
+Welcome to my profile! 🚀
+
+<p align="center">
+  Passionate about building reliable, scalable, and maintainable test automation frameworks.
+</p>
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-ahmed-hasan).
 
