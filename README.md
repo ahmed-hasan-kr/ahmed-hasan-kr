@@ -1,6 +1,6 @@
 <!-- My Profile README -->
 
-<h1 align="center">👋 Hi there, I'm Ahmed Hasan</h1>
+<h1 align="center">👋 Hi there, I'm Ahmed Foysol Hasan</h1>
 
 <p align="center">
   Welcome to my profile! 🚀<br>
