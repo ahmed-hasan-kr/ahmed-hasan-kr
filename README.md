@@ -1,5 +1,12 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
+<h1 align="center">Hi there 👋, I'm a QA Automation Engineer (SDET)</h1>
+
+<p align="center">
+  Passionate about building reliable, scalable, and maintainable test automation frameworks.
+</p>
+
+---
 <!--
 **ahmed-hasan-kr/ahmed-hasan-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
