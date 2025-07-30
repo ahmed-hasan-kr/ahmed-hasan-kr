@@ -32,5 +32,3 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=naveenanimation20&count_private=true&show_icons=true&&custom_title=Ahmed%20Foysol%20Hasan's%20GitHub%20Stats&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-hasan-kr&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-
----
